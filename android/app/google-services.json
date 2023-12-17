@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1096756273832",
+    "project_id": "feyst-4bcd4",
+    "storage_bucket": "feyst-4bcd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096756273832:android:bc3c75e869582f725c189d",
+        "android_client_info": {
+          "package_name": "com.feyst.chef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096756273832-avj7u8dbcsd08ubdsb9ojvjecs8inl08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.feyst.chef",
+            "certificate_hash": "a81c8d7db3e5e24534cafbfef3168bbb4427f699"
+          }
+        },
+        {
+          "client_id": "1096756273832-lqsccomvqv8lmt9ih6o940uur53vq9o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFIbCytMuhsfLpuxVEkQQXeOIClneFMHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096756273832-lqsccomvqv8lmt9ih6o940uur53vq9o2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1096756273832-2ehvj9t6amjpe0jn403tf1hus83dtgk9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.feyst.foodie"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096756273832:android:b1a11a03b713f7b85c189d",
+        "android_client_info": {
+          "package_name": "com.feyst.foodie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096756273832-q0a7utkfdl0dcnq4jnk8poiu1lob5dcp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.feyst.foodie",
+            "certificate_hash": "f5768106e4fda52a4ccc6e833e73d3fd0bf1aa4d"
+          }
+        },
+        {
+          "client_id": "1096756273832-lqsccomvqv8lmt9ih6o940uur53vq9o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFIbCytMuhsfLpuxVEkQQXeOIClneFMHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096756273832-lqsccomvqv8lmt9ih6o940uur53vq9o2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1096756273832-2ehvj9t6amjpe0jn403tf1hus83dtgk9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.feyst.foodie"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
